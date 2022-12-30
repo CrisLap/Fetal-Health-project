@@ -24,4 +24,4 @@ Therefore perform the following procedure for both paths, first with 1) then wit
 Now evaluate the two models on the hitherto unused test set. You will see which one performs better by comparing the values of the chosen metrics. <br>
 Final Evaluation <br>
 Now compare routes 1) and 2) and obtain the best model. Make a final discussion about the problem and the solution found.
-Notes: I suggest to open the notebook with nbviewer at this link:
+Notes: I suggest to open the notebook with nbviewer at this link: https://nbviewer.org/github/CrisLap/Fetal-Health-project/blob/main/Fetal%20health%20project.ipynb
