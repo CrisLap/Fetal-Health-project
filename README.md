@@ -23,5 +23,5 @@ Therefore perform the following procedure for both paths, first with 1) then wit
 2.	Then carry out a tuning of the hyper-parameters on these two best models, e.g. using a grid search and always cross validation as an evaluation method (there is a GridSearchCV method on sklearn). You should now be in a position to know the best hyperparameters for both selected models. <br>
 Now evaluate the two models on the hitherto unused test set. You will see which one performs better by comparing the values of the chosen metrics. <br>
 Final Evaluation <br>
-Now compare routes 1) and 2) and obtain the best model. Make a final discussion about the problem and the solution found.
+Now compare routes 1) and 2) and obtain the best model. Make a final discussion about the problem and the solution found. <br>
 Notes: I suggest to open the notebook with nbviewer at this link: https://nbviewer.org/github/CrisLap/Fetal-Health-project/blob/main/Fetal%20health%20project.ipynb
